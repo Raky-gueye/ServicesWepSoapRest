@@ -35,10 +35,6 @@ The project is organized around three main parts:
 - CRUD operations
 - Service consumption from multiple programming languages
 
-## Demo
-
-[Watch the project demonstration on YouTube](https://www.youtube.com/watch?v=EtXwKayDG1k)
-
 ## Learning Objectives
 
 This project helped practice designing and consuming a SOAP web service, implementing CRUD operations for student records, and integrating clients developed in different programming languages with a shared service.
